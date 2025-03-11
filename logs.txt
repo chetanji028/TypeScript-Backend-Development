@@ -1,0 +1,20 @@
+2025-02-25T12:30:00 ERROR:  Database connection failed: Timeout error.
+2025-02-25T12:30:10 INFO:  User login successful for user "john_doe".
+2025-02-25T12:30:15 WARN:  High memory usage detected on server "server1".
+2025-02-25T12:31:00 ERROR:  Database query failed: Invalid syntax in SQL query.
+2025-02-25T12:32:00 INFO:  User logout successful for user "jane_smith".
+2025-02-25T12:33:00 ERROR:  File not found: /path/to/missing/file.txt.
+2025-02-25T12:34:00 INFO:  Transaction successful: Order ID 12345.
+2025-02-25T12:34:30 ERROR:  Network issue: Unable to reach API endpoint.
+2025-02-25T12:35:00 INFO:  Data processing completed successfully for job "job1".
+2025-02-25T12:36:00 ERROR:  Server crash detected: Out of memory error.
+2025-02-25T12:36:15 INFO:  Scheduled task "backup" started successfully.
+2025-02-25T12:37:00 INFO:  User profile updated for user "alice_williams".
+2025-02-25T12:38:00 ERROR:  Authentication failure for user "bob_jones".
+2025-02-25T12:38:30 WARN:  Disk space running low on server "server2".
+2025-02-25T12:39:00 INFO:  Scheduled task "cleanup" completed successfully.
+2025-02-25T12:40:00 ERROR:  Email sending failed: SMTP server timeout.
+2025-02-25T12:41:00 INFO:  Backup completed successfully for database "db1".
+2025-02-25T12:42:00 ERROR:  API rate limit exceeded: Too many requests.
+2025-02-25T12:43:00 INFO:  System maintenance started on server "server3".
+2025-02-25T12:44:00 ERROR:  Invalid request received: Malformed JSON.

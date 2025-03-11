@@ -1,0 +1,6 @@
++--------------------+           +------------------+           +-------------------+
+|     Client (API)   |  <----->  |     Server       |  <----->  |    Log File       |
+|                    |           |   (Express.js)   |           |    (logs.txt)     |
+|  - Sends Requests  |           |  - Filters Logs  |           |  - Reads & Parses |
+|  - Receives Response|           |  - Returns JSON   |           |  - Contains Logs  |
++--------------------+           +------------------+           +-------------------+
